@@ -1,0 +1,13 @@
+%Manual de HTML
+%Flor Pérez
+%Agosto 2016
+
+Presentación
+============
+Este manual contiene el material del curso **"Aplicaciones Modernas HTML"**, los temas analizados fueron:
+ 1. HTML y DOM
+ Liberias Javascrip
+  * nodejs
+  * jquery
+  * jade
+  * pandoc   
